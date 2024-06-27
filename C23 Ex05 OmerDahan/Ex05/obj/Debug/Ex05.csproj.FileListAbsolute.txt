@@ -1,0 +1,12 @@
+C:\Users\omerd\OneDrive\שולחן העבודה\New folder (2)\C23 Ex05 OmerDahan\Ex05\bin\Debug\Ex05.exe.config
+C:\Users\omerd\OneDrive\שולחן העבודה\New folder (2)\C23 Ex05 OmerDahan\Ex05\bin\Debug\Ex05.exe
+C:\Users\omerd\OneDrive\שולחן העבודה\New folder (2)\C23 Ex05 OmerDahan\Ex05\bin\Debug\Ex05.pdb
+C:\Users\omerd\OneDrive\שולחן העבודה\New folder (2)\C23 Ex05 OmerDahan\Ex05\obj\Debug\Ex05.csproj.AssemblyReference.cache
+C:\Users\omerd\OneDrive\שולחן העבודה\New folder (2)\C23 Ex05 OmerDahan\Ex05\obj\Debug\Ex05.csproj.SuggestedBindingRedirects.cache
+C:\Users\omerd\OneDrive\שולחן העבודה\New folder (2)\C23 Ex05 OmerDahan\Ex05\obj\Debug\Ex05.ColorPickForm.resources
+C:\Users\omerd\OneDrive\שולחן העבודה\New folder (2)\C23 Ex05 OmerDahan\Ex05\obj\Debug\Ex05.GuessingGameForm.resources
+C:\Users\omerd\OneDrive\שולחן העבודה\New folder (2)\C23 Ex05 OmerDahan\Ex05\obj\Debug\Ex05.GuessCounterForm.resources
+C:\Users\omerd\OneDrive\שולחן העבודה\New folder (2)\C23 Ex05 OmerDahan\Ex05\obj\Debug\Ex05.csproj.GenerateResource.cache
+C:\Users\omerd\OneDrive\שולחן העבודה\New folder (2)\C23 Ex05 OmerDahan\Ex05\obj\Debug\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\omerd\OneDrive\שולחן העבודה\New folder (2)\C23 Ex05 OmerDahan\Ex05\obj\Debug\Ex05.exe
+C:\Users\omerd\OneDrive\שולחן העבודה\New folder (2)\C23 Ex05 OmerDahan\Ex05\obj\Debug\Ex05.pdb
