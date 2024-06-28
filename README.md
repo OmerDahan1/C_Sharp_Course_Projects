@@ -2,7 +2,7 @@
 
 Welcome to my C# course projects repository! This README file provides an overview of the five projects I completed as part of my university C# course. Each project showcases different aspects of C# programming, from basic syntax and console applications to more complex object-oriented programming and game development.
 
-### Screenshot
+![Game](https://github.com/OmerDahan1/C_Sharp_Course_Projects/blob/main/Game%20Screenshots/Game.png)
 
 ## Table of Contents
   - [Project 1: Basic Programming](#project-1-basic-programming)
@@ -90,7 +90,19 @@ In this project, we have built an extension to Project 2, the "Bulls and Cows" g
 - Graphical user interface (GUI) using Windows Forms.
 - Interactive gameplay with color buttons for user input.
 - Enhanced user experience with visual elements.
-### Screenshots (tart middle, end in)
+### Screenshots 
+First, choose the number of guesses:
+
+![Game](https://github.com/OmerDahan1/C_Sharp_Course_Projects/blob/main/Game%20Screenshots/Number%20Of%20Guesses%20Window.png)
+
+Next, this window will open, allowing you to start guessing:
+
+![Game](https://github.com/OmerDahan1/C_Sharp_Course_Projects/blob/main/Game%20Screenshots/Start%20Game%20Window.png)
+
+At the end of the game, a window will appear, giving you the option to start a new game:
+
+![Game](https://github.com/OmerDahan1/C_Sharp_Course_Projects/blob/main/Game%20Screenshots/End%20Game.png)
+
 
 ## How to Run the Projects:
 
