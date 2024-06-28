@@ -2,16 +2,19 @@
 
 Welcome to my C# course projects repository! This README file provides an overview of the five projects I completed as part of my university C# course. Each project showcases different aspects of C# programming, from basic syntax and console applications to more complex object-oriented programming and game development.
 
-## Picture of the "Bulls & Cows" Game Created During the Course:
-
-![Game](https://github.com/OmerDahan1/C_Sharp_Course_Projects/blob/main/Game%20Screenshots/Game.png)
-
 ## Table of Contents
+  - [Picture of the "Bulls & Cows" Game Created During the Course:](picture-of-the-bulls--cows-game-created-during-the-course)
   - [Project 1: Basic Programming](#project-1-basic-programming)
   - [Project 2: Bulls & Cows Console Game](#project-2-bulls--cows-console-game)
   - [Project 3: Garage Management System](#project-3-garage-management-system)
   - [Project 4: Interfaces, Delegations, Events, and Menus](#project-4-interfaces-delegations-events-and-menus)
   - [Project 5: Windows Application for "Bulls and Cows" Game](#project-5-windows-application-for-bulls-and-cows-game)
+  - [How to Run the Projects:](how-to-run-the-rojects)
+
+## Picture of the "Bulls & Cows" Game Created During the Course:
+
+![Game](https://github.com/OmerDahan1/C_Sharp_Course_Projects/blob/main/Game%20Screenshots/Game.png)
+
 
 ## Project 1: Basic Programming
 ### Goals
