@@ -5,11 +5,11 @@ Welcome to my C# course projects repository! This README file provides an overvi
 ### Screenshot
 
 ## Table of Contents
-  - [Project 1: Basic Programming](project-1:-Basic-Programming)
-  - [Project 2: Bulls & Cows Console Game](project-2:-Bulls-&-Cows-Console-Game)
-  - [Project 3: Garage Management System](project-3:-Garage-Management-System)
-  - [Project 4: Interfaces, Delegations, Events, and Menus](project-4:-Interfaces,-Delegations,-Events,-and-Menus)
-  - [Project 5: Windows Application for "Bulls and Cows" Game](project-5:-Windows-Application-for-"Bulls-and-Cows"-Game)
+  - [Project 1: Basic Programming](#project-1-basic-programming)
+  - [Project 2: Bulls & Cows Console Game](#project-2-bulls--cows-console-game)
+  - [Project 3: Garage Management System](#project-3-garage-management-system)
+  - [Project 4: Interfaces, Delegations, Events, and Menus](#project-4-interfaces-delegations-events-and-menus)
+  - [Project 5: Windows Application for "Bulls and Cows" Game](#project-5-windows-application-for-bulls-and-cows-game)
 
 ## Project 1: Basic Programming
 ### Goals
@@ -62,7 +62,7 @@ Develop a system to manage a garage with various types of vehicles:
 ### Solution Structure
 - Ex03.GarageLogic: Contains the object model and logical layer.
 - Ex03.ConsoleUI: Provides a console-based user interface.
-## Project 4: Interfaces, Delegations, Events, and Menus
+## Project 4: Interfaces, Delegations, Events and Menus
 ### Goals
 - Implement object-oriented programming and polymorphism
 - Work with interfaces and delegates
