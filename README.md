@@ -2,6 +2,8 @@
 
 Welcome to my C# course projects repository! This README file provides an overview of the five projects I completed as part of my university C# course. Each project showcases different aspects of C# programming, from basic syntax and console applications to more complex object-oriented programming and game development.
 
+## Picture of the "Bulls & Cows" Game Created During the Course:
+
 ![Game](https://github.com/OmerDahan1/C_Sharp_Course_Projects/blob/main/Game%20Screenshots/Game.png)
 
 ## Table of Contents
