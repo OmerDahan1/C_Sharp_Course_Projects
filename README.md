@@ -24,6 +24,7 @@ Create a new solution and add separate projects for each section:
   3. **Hourglass for Advanced:** Extend the hourglass pattern to accept user input.
   4. **String Parsing:** Analyze strings for palindrome, number divisibility, and letter cases.
   5. **Statistics Tell:** Provide various statistics for a given 6-digit number.
+     
 ## Project 2: Bulls & Cows Console Game
 ### Goals
   - Implement classes and object-oriented programming
@@ -39,6 +40,7 @@ Develop the classic "Bulls & Cows" game:
 - Validate user input
 - Provide feedback and game state after each guess
 - Allow the player to quit the game at any time by simply press the 'q' button.
+  
 ## Project 3: Garage Management System
 ### Goals
 - Implement classes, inheritance, and polymorphism
@@ -62,6 +64,7 @@ Develop a system to manage a garage with various types of vehicles:
 ### Solution Structure
 - Ex03.GarageLogic: Contains the object model and logical layer.
 - Ex03.ConsoleUI: Provides a console-based user interface.
+  
 ## Project 4: Interfaces, Delegations, Events and Menus
 ### Goals
 - Implement object-oriented programming and polymorphism
@@ -73,6 +76,7 @@ Develop a **MainMenu** class to create and manage hierarchical menus for console
 - Define menu items and sub-items
 - Handle user input to navigate through menus
 - Trigger actions based on menu selection
+  
 ## Project 5: Windows Application for "Bulls and Cows" Game
 ### Description:
 In this project, we have built an extension to Project 2, the "Bulls and Cows" game, by creating a Windows application version of the game. This project utilizes C# and Windows Forms to provide a graphical user interface for the "Bulls and Cows" game, enhancing the user experience with visual elements and interactive gameplay. Users can now choose from color buttons to make their guesses, adding a new dimension to the game.
@@ -87,3 +91,22 @@ In this project, we have built an extension to Project 2, the "Bulls and Cows" g
 - Interactive gameplay with color buttons for user input.
 - Enhanced user experience with visual elements.
 ### Screenshots (tart middle, end in)
+
+## How to Run the Projects:
+
+**1. Open the Project in Visual Studio:**
+
+- Launch Visual Studio.
+- Open the solution file (.sln) for the project.
+  
+**2. Build the Solution:**
+- Go to the Build menu and select Build Solution to compile the project.
+  
+**3. Run the Application:**
+- For Console Applications:
+  * Press F5 or click on the Start button in Visual Studio to run the application.
+  * Follow the instructions in the console window to interact with the application.
+    
+- For the Windows Application (Project 5):
+  * Press F5 or click on the Start button in Visual Studio to run the application.
+  * The Windows Forms application will launch, and you can interact with the graphical user interface to play the game.
