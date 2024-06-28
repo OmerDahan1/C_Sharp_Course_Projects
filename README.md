@@ -103,7 +103,6 @@ At the end of the game, a window will appear, giving you the option to start a n
 
 ![Game](https://github.com/OmerDahan1/C_Sharp_Course_Projects/blob/main/Game%20Screenshots/End%20Game.png)
 
-
 ## How to Run the Projects:
 
 **1. Open the Project in Visual Studio:**
